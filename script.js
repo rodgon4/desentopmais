@@ -1,4 +1,4 @@
-const PHONE = "351000000000"; // trocar pelo número real, com indicativo 351
+const PHONE = "351962130300";
 const MESSAGE = "Olá! Vi o site DesentopMais.pt e preciso de assistência para um entupimento.";
 
 document.querySelectorAll('.whatsapp-link').forEach(link => {
